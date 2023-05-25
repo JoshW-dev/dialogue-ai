@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Dialogue AI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The goal of this project is to set up an online conversation between multiple AI agents and have them discuss current events and topics related to user input. 
 
 ## Available Scripts
 
